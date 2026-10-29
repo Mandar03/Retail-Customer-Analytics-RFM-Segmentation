@@ -20,19 +20,19 @@ The objective is to understand customer purchasing behavior, identify high-value
 
 | # | Resource | Description | Link |
 |---|---|---|---|
-| 1 | Business Requirements Document (BRD) | Project objectives, scope, requirements, and expected outcomes. | [View BRD](https://docs.google.com/document/d/1IKwRfVLwA04kTc_Mf1di4PeNatX3dRwT/edit?usp=drive_link&ouid=109224376186318785130&rtpof=true&sd=true) |
+| 1 | Business Requirements Document (BRD) | Project objectives, scope, requirements, and expected outcomes. | [View BRD](https://docs.google.com/document/d/1IKwRfVLwA04kTc_Mf1di4PeNatX3dRwT/edit?usp=sharing&ouid=109224376186318785130&rtpof=true&sd=true) |
 
-| 2 | Dataset | Original retail transaction dataset used for the analysis. | [Access Dataset](https://drive.google.com/file/d/1IpruOTPSBUPMPkPj3zFmn4KZ39Rrs3dQ/view?usp=drive_link) |
+| 2 | Dataset | Original retail transaction dataset used for the analysis. | [Access Dataset](https://drive.google.com/file/d/1IpruOTPSBUPMPkPj3zFmn4KZ39Rrs3dQ/view?usp=sharing) |
 
-| 3 | SQL Queries | SQL scripts for data exploration, cleaning, transformation, and validation. | [View SQL Queries](https://drive.google.com/file/d/1kiq1dmA1eEZiKHjMt5ye4ctBIss0uRWp/view?usp=drive_link) |
+| 3 | SQL Queries | SQL scripts for data exploration, cleaning, transformation, and validation. | [View SQL Queries](https://drive.google.com/file/d/1kiq1dmA1eEZiKHjMt5ye4ctBIss0uRWp/view?usp=sharing) |
 
-| 4 | Data After SQL Cleaning | Cleaned dataset produced after SQL data preparation. | [Access Cleaned Data](https://drive.google.com/file/d/1q42eM3kbJyYDnMuwxUeHQdOGSSGBZBJQ/view?usp=drive_link) |
+| 4 | Data After SQL Cleaning | Cleaned dataset produced after SQL data preparation. | [Access Cleaned Data](https://drive.google.com/file/d/1q42eM3kbJyYDnMuwxUeHQdOGSSGBZBJQ/view?usp=sharing) |
 
-| 5 | Python Analysis | Python notebook/script for data analysis, feature engineering, and RFM segmentation. | [View Python Analysis](https://drive.google.com/file/d/1zyXflnDcfo6xZwgEMXMjM26kfCgqIRiG/view?usp=drive_link) |
+| 5 | Python Analysis | Python notebook/script for data analysis, feature engineering, and RFM segmentation. | [View Python Analysis](https://drive.google.com/file/d/1zyXflnDcfo6xZwgEMXMjM26kfCgqIRiG/view?usp=sharing) |
 
-| 6 | Data After Segmentation | Processed dataset containing customer-level RFM metrics and segment assignments. | [Access Segmented Data](https://docs.google.com/spreadsheets/d/1w7L_ME6G_K1hSDzYJfl7TyKqXF7WpoBk/edit?usp=drive_link&ouid=109224376186318785130&rtpof=true&sd=true) |
+| 6 | Data After Segmentation | Processed dataset containing customer-level RFM metrics and segment assignments. | [Access Segmented Data](https://docs.google.com/spreadsheets/d/1w7L_ME6G_K1hSDzYJfl7TyKqXF7WpoBk/edit?usp=sharing&ouid=109224376186318785130&rtpof=true&sd=true) |
 
-| 7 | Power BI Dashboard | Interactive dashboard for exploring customer behavior, segment distribution, and business insights. | [View Power BI Dashboard](https://drive.google.com/file/d/1lUCih3OxNX7rcYpJa5rothiZiK7UAccH/view?usp=drive_link) |
+| 7 | Power BI Dashboard | Interactive dashboard for exploring customer behavior, segment distribution, and business insights. | [View Power BI Dashboard](https://drive.google.com/file/d/1lUCih3OxNX7rcYpJa5rothiZiK7UAccH/view?usp=sharing) |
 
 ## Tools & Technologies
 
